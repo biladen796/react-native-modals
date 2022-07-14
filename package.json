@@ -1,7 +1,7 @@
 {
   "name": "react-native-modals",
   "version": "0.22.3",
-  "description": "React Native Modals Library for IOS & Android.",
+  "description": "React Native Modals Library for IOS & Android. TienDX forked",
   "main": "dist/index.js",
   "scripts": {
     "test": "jest",
